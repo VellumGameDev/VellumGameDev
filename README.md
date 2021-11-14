@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Szytex
 - 👀 I’m interested in C++, Lua, C#, JavaScript
 - 🌱 I’m currently learning C++, JavaScript, C#
-- ✌   I'm working on a game
+- ✌    I'm working on a game
 - 😊  I'm a Rust player with nearly 1400 hrs
