@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Szytex
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
-- ✌ I’m currently making a game in C++
+- 👏 I’m currently making a game in C++
