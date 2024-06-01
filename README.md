@@ -1,5 +1,5 @@
 # Hey I'm Szytex!
-Im currently developing my own game engine using C# with my team over at [North Games](https://github.com/North-Games)
+Im currently developing my own game engine using C++, C & C#!
 
 > [!IMPORTANT]\
 > We are currently not open for any hiring to applications.
