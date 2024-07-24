@@ -1,5 +1,5 @@
 # Hey I'm Szytex!
-Im currently developing my own game engine using C#!
+Im a big game developer! (not)
 
 > [!IMPORTANT]\
 > We are currently not open for any hiring to applications.
