@@ -1,8 +1,8 @@
-# Hey I'm Szytex!
-Im a big game developer! (not)
+# Hey I'm Dorend!
+Im a game developer! (kinda)
 
 > [!IMPORTANT]\
 > We are currently not open for any hiring to applications.
-> To get more information, please join our [Discord Server](https:://discord.com/invite/J8HqrRPpYV).
+> To get more information, please join our [Discord Server](https:://discord.com/invite/CDDpjpsxwg).
 
-![szytex's github stats](https://github-readme-stats.vercel.app/api?username=szytex&show_icons=true&theme=dracula)
+![Dorenddev's github stats](https://github-readme-stats.vercel.app/api?username=dorenddev&show_icons=true&theme=dracula)
