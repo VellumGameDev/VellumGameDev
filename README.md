@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vellumgamedev" alt="vellumgamedev" /></a> </p>
 
-- 🔭 I’m currently working on **Zynora Tech**
+- 🔭 I’m currently working on **Zynora Tech** & **Rimebound Studios**
 
 - 📫 How to reach me **contact@rimeboundstudios.com**
 
